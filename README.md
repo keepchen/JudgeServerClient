@@ -1,9 +1,9 @@
 # JudgeServer
 
 ```shell
-go get -d github.com/keepchen/JudgeServerClient/client/go
+go get -d github.com/keepchen/JudgeServerClient
 ```
 
 ```golang
-import judge "github.com/keepchen/JudgeServerClient/client/go"
+import judge "github.com/keepchen/JudgeServerClient"
 ```
